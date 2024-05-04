@@ -2,12 +2,12 @@
 Test Char Driver on BBB
 
 
-git init
-git submodule add <url_to_linux_repository> ldd/source/linux
-git add .
-git commit -m ""
+git init <br>
+git submodule add <url_to_linux_repository> ldd/source/linux <br>
+git add . <br>
+git commit -m "" <br>
 
-git clone
-cd ldd
-git submodule init
-git submodule update
+git clone <br>
+cd ldd <br>
+git submodule init <br>
+git submodule update <br>
