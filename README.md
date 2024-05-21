@@ -1,4 +1,4 @@
-Note:  Havent added source file, use the link to get it.
+Note:  Havent added source file and cross compiler.
 
 # Character-Driver
 Test Char Driver on BBB
