@@ -1,0 +1,1 @@
+savedcmd_/home/aditya/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/aditya/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/"$$0) }' > /home/aditya/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/main.mod

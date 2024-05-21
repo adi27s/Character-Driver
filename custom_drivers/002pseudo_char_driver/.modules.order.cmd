@@ -1,0 +1,1 @@
+savedcmd_/home/aditya/workspace/ldd/custom_drivers/002pseudo_char_driver/modules.order := {   echo /home/aditya/workspace/ldd/custom_drivers/002pseudo_char_driver/main.o; :; } > /home/aditya/workspace/ldd/custom_drivers/002pseudo_char_driver/modules.order

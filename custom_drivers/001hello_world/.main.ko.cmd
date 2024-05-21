@@ -1,0 +1,1 @@
+cmd_/home/aditya/workspace/ldd/custom_drivers/001hello_world/main.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/aditya/workspace/ldd/custom_drivers/001hello_world/main.ko /home/aditya/workspace/ldd/custom_drivers/001hello_world/main.o /home/aditya/workspace/ldd/custom_drivers/001hello_world/main.mod.o;  true
